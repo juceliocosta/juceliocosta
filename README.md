@@ -6,4 +6,4 @@
 ### [Projeto-Android](https://juceliocosta.github.io/projeto-android/)
 ### [Projeto-Cordel](https://juceliocosta.github.io/projeto-cordel/)
 ### [JavaScript-Exercícios](https://juceliocosta.github.io/javascript-exercicios/)
-### [HTML-CSS](juceliocosta.github.io/html-css/)
+### [HTML-CSS](https://juceliocosta.github.io/html-css/)
