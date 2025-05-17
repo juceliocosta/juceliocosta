@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=juceliocosta&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_rank=true" alt="status graph"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=juceliocosta&include_all_commits=true&show_icons=true&theme=tokyonight&hide_rank=true" alt="status graph"/>
     <img  height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=juceliocosta&theme=tokyonight&layout=compact&card_width=314" alt="languages graph"  />
 </div>
 
