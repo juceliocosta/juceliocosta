@@ -2,13 +2,13 @@
 
 ## Técnico em Informática | Graduando em Sistemas para Internet
 
-Focado em Desenvolvimento Web FullStack. Busco criar aplicações limpas, eficientes e bem estruturadas, aplicando boas práticas em projetos reais.
+Focado em Desenvolvimento Web Full Stack. Busco criar aplicações limpas, eficientes e bem estruturadas, aplicando boas práticas em projetos reais.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![my skills](https://skillicons.dev/icons?i=html,css,js,git.svelte.nodejs,express,prisma,postgres,py.java.linux)
+![my skills](https://skillicons.dev/icons?i=html,css,js,git,svelte,nodejs,express,prisma,postgres,py,java,linux)
 
 ---
 
