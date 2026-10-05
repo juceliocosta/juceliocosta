@@ -14,9 +14,7 @@ Focado em Desenvolvimento Web Full Stack. Busco criar aplicações limpas, efici
 
 ### 📫 Contato
 
-[![My Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juceliojdc@gmail.com)
-
-[![My LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juceliocosta)
+[![My Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juceliojdc@gmail.com) [![My LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juceliocosta)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=1d50ee&fontColor=1d50ee&height=80&section=footer&animation=fadeIn)
