@@ -1,24 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=1d50ee&fontColor=1d5eee&height=80&section=header&animation=fadeIn)
+# Olá, eu sou [Seu Nome] 👋
 
-<h1 align="center">👋 Olá, eu sou Jucélio Costa</h1>
+## Técnico em Informática | Graduando em Sistemas para Internet
 
-- 💻 Técnico em Informática
-- 📚 Cursando Tecnólogo em Sistemas para Internet
+Focado em Desenvolvimento Web FullStack. Busco criar aplicações limpas, eficientes e bem estruturadas, aplicando boas práticas em projetos reais.
 
 ---
 
-<div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=juceliocosta&include_all_commits=true&show_icons=true&theme=tokyonight&hide_rank=true" alt="status graph"/>
-    <img  height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=juceliocosta&theme=tokyonight&layout=compact&card_width=314" alt="languages graph"  />
-</div>
+### 🛠️ Tecnologias e Ferramentas
 
-## 🛠️ Language and Tools:
+![my skills](https://skillicons.dev/icons?i=html,css,js,git.svelte.nodejs,express,prisma,postgres,py.java.linux)
 
-![my skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,postgres,prisma,git,py)
+---
 
-## 📫 Contacts
+### 📫 Contato
 
 [![My Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juceliojdc@gmail.com)
-[![My LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jucelio-costa)
+
+[![My LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juceliocosta)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=1d50ee&fontColor=1d50ee&height=80&section=footer&animation=fadeIn)
